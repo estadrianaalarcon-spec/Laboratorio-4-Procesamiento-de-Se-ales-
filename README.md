@@ -1,1 +1,1 @@
-# Laboratorio-4-Procesamiento-de-Se-ales-
+# Laboratorio 4 Procesamiento Digital de Señales 
